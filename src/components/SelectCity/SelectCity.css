@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+}
+.Card{
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+  display: flex;
+  justify-content: left;
+   position: relative;
+ 
+}
+.card-Style{
+    text-align: center;
+    height: 300px;
+    width: 200px;
+   
+   
+}

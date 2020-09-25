@@ -1,0 +1,16 @@
+.Card{
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    border: 2px solid goldenrod;
+   display: flex;
+  justify-content: left;
+ position: relative;
+ 
+}
+.card-Style{
+    height: 300px;
+    width: 200px;
+   
+   
+}

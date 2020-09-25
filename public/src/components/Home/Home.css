@@ -1,0 +1,22 @@
+.location-heading{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 150px;
+    color:#fff;
+    
+}
+.location-title{
+    max-width: 300px;
+    margin-right: 320px;
+}
+.card-item{
+   padding:0;
+   margin:0;
+}
+.custom-style{
+    margin-left: 900px;
+    margin:10px;
+    overflow: hidden;
+
+   
+}
